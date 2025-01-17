@@ -6,6 +6,7 @@ const port = process.env.PORT || 3000;
 const dbConfig = {
 	host: "mysql-1f9e04c9-my-e658.g.aivencloud.com",
 	user: "avnadmin",
+	port: "14386",
 	password: "AVNS_5cAAyUss2odGFczuPcs",
 	database: "defaultdb",
 	multipleStatements: false
